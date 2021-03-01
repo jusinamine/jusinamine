@@ -5,6 +5,6 @@
 - 👨‍💻 I have some knowledge aboout backend 
 - 🤖 I also worked with AI
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusinamine&repo=violence_detection&show_icons=true&theme=chartreuse-dark)]
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusinamine&repo=violence_detection&show_icons=true&theme=chartreuse-dark)
 <summary>GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=jusinamine&&show_icons=true&title_color=07d4ee&icon_color=07d4ee&text_color=ffffff&bg_color=112732" />
