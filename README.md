@@ -6,10 +6,11 @@
 - 🤖 I also worked with AI
 
 <summary>Pined Repositories</summary>
+<br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusinamine&repo=violence_detection&show_icons=true&title_color=07d4ee&icon_color=07d4ee&text_color=ffffff&bg_color=11273)](https://github.com/yani27/web-scraping-nike-website);
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusinamine&repo=bodybuilding-desktop-app&show_icons=true&title_color=07d4ee&icon_color=07d4ee&text_color=ffffff&bg_color=112732)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusinamine&repo=fut19-autobuy-electronjs&show_icons=true&title_color=07d4ee&icon_color=07d4ee&text_color=ffffff&bg_color=112732)](https://github.com/jusinamine/fut19-autobuy-electronjs)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusinamine&repo=fut19-autobuy-electronjs&show_icons=true&title_color=07d4ee&icon_color=07d4ee&text_color=ffffff&bg_color=112732)
 
 <summary>GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=jusinamine&&show_icons=true&title_color=07d4ee&icon_color=07d4ee&text_color=ffffff&bg_color=112732" />
+<img src="https://github-readme-stats.vercel.app/api?username=yani27&&show_icons=true&title_color=07d4ee&icon_color=07d4ee&text_color=ffffff&bg_color=112732" />
