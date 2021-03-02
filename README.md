@@ -13,4 +13,4 @@
 
 <summary>GitHub Stats</summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=yani27&&show_icons=true&title_color=07d4ee&icon_color=07d4ee&text_color=ffffff&bg_color=112732" />
+<img src="https://github-readme-stats.vercel.app/api?username=jusinamine&&show_icons=true&title_color=07d4ee&icon_color=07d4ee&text_color=ffffff&bg_color=112732" />
