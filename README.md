@@ -8,8 +8,8 @@
 <summary>Pined Repositories</summary>
 <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusinamine&repo=bodybuilding-desktop-app&show_icons=true&title_color=07d4ee&icon_color=07d4ee&text_color=ffffff&bg_color=112732)](https://github.com/jusinamine/bodybuilding-desktop-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusinamine&repo=fut19-autobuy-electronjs&show_icons=true&title_color=07d4ee&icon_color=07d4ee&text_color=ffffff&bg_color=112732)](https://github.com/jusinamine/fut19-autobuy-electronjs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusinamine&repo=gold-prices-web&show_icons=true&title_color=07d4ee&icon_color=07d4ee&text_color=ffffff&bg_color=112732)](https://github.com/jusinamine/gold-prices-web)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jusinamine&repo=react-glassmorphism-components&show_icons=true&title_color=07d4ee&icon_color=07d4ee&text_color=ffffff&bg_color=112732)](https://github.com/jusinamine/react-glassmorphism-components)
 
 <summary>GitHub Stats</summary>
 <br/>
